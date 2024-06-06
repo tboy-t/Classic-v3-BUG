@@ -193,7 +193,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+ "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉ꪻ᥇ꪮꪗ⧉⸙⫺`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -328,7 +328,7 @@ var hawemod = [
 
 ` ★彡 ꪻ᥇ꪮꪗ 彡★ `
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉ꪻ᥇ꪮꪗ⧉⸙⫺.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -778,7 +778,7 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
+                            ewe = `┏━━━▓ *ꪻ᥇ꪮꪗ 𝗕𝗢𝗧* ▓━━━━━
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -851,7 +851,7 @@ break
 //=================================================//
 case 'bugmenu': {
 await loading()
-                            ewe = `┏━━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━━━━
+                            ewe = `┏━━━━▓ *ꪻ᥇ꪮꪗ 𝗕𝗢𝗧* ▓━━━━━━━━━━
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -891,7 +891,7 @@ await loading()
 ┃➟ scheduleobject 62852X
 ┃➟ eatmydickk 62852X
 ┣━━━━━━━━━━━━━━━━
-┃   ➥➥❴⧠ 𝐁𝐘 𝐒𝐀𝐌 ⧠❵➥➥
+┃   ➥➥❴⧠ 𝐁𝐘 ꪻ᥇ꪮꪗ ⧠❵➥➥
 ┣━━━━━━━━━━━━━━━━
 ┃┏━━❴ 𝑩𝑼𝑮 + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵━━━
 ┃➟ 𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 62852𝑿
@@ -904,7 +904,7 @@ await loading()
 ┃➟ 𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 62852𝑿
 ┃➟ 𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 62852𝑿
 ┣━━━━━━━━━━━━━━━━━
-┃  ➥➥❴⧠ 𝐁𝐘 𝐒𝐀𝐌 ⧠❵➥➥
+┃  ➥➥❴⧠ 𝐁𝐘 ꪻ᥇ꪮꪗ ⧠❵➥➥
 ┣━━━━━━━━━━━━━━━━━
 ┃┏╼╼╼❴ 𝑩𝑼𝑮 𝑮𝑹𝑶𝑼𝑷 ❵╼╼╼╼
 ┃➟ 𝒖𝒏𝒍𝒊𝒅𝒆𝒍𝒂𝒚𝒈𝒄 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
@@ -921,7 +921,7 @@ await loading()
 ┃➟ 𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒛 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┃➟ 𝒈𝒂𝒔𝒇𝒖𝒍𝒍𝒈𝒄 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┣━━━━━━━━━━━━━━━━━━
-┃  ➥❴⧠ *𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ®2024* ⧠❵➥
+┃  ➥❴⧠ *ꪻ᥇ꪮꪗ ®2024* ⧠❵➥
 ┃━━━━━━━━━━━━━━━━━━
 ┃┏━━❴ 𝑺𝑬𝑵𝑫 𝑩𝑼𝑮 𝑫𝑰𝑹𝑬𝑪𝑻 ❵━━
 ┃➟ 𝒈𝒆𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒃𝒖𝒈
@@ -988,7 +988,7 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉ꪻ᥇ꪮꪗ ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
+  title: 'ᚙᚘ ⫹⸙⧉ꪻ᥇ꪮꪗ ⧉⸙⫺   - ꪻ᥇ꪮꪗ™ ᚘᚙ',
   body: 'ᚙᚘ ⫹⧉⸙ꪻ★᥇†ꪮ★ꪗ⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -2919,9 +2919,9 @@ jumlah = "15"
 for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
-"url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺",
-"title": "༐༑⿻𝐒᪣𝐀⚔𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"url": "https://chat.whatsapp.com/DjFsuAzJyCT7beMI9q2zpt",
+"mimetype": "⫹⸙⧉ꪻ᥇ꪮꪗ 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺",
+"title": "༐༑⿻ꪻ᥇ꪮꪗ⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -2929,7 +2929,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐒᪣𝐀⚔𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻ꪻ᥇ꪮꪗ⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(bnnd, document.message, { messageId: document.key.id })
